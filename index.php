@@ -43,6 +43,11 @@
                                 Operadores Lógicos
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
+                                Desafio Op. Lógicos
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
