@@ -28,6 +28,21 @@
                                 Array
                             </a>
                         </li>                        
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">
+                                Mapa
+                            </a>
+                        </li>                        
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_index">
+                                Desafio index
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_meses">
+                                Desafio meses
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
