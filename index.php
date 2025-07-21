@@ -58,6 +58,11 @@
                                 Multidimensionais
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=constantes">
+                                Array constatantes
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
