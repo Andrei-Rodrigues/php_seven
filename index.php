@@ -53,6 +53,16 @@
                                 While/Do While
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela">
+                                Desafio tabela
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">
+                                Desafio tabela 2
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo laranja">
