@@ -39,5 +39,5 @@ function trocarValorDeVerdade(&$a, $novoValor) {
     $a = $novoValor;
 }
 
-trocaValorDeVerdade($variavel,500);
+trocarValorDeVerdade($variavel,500);
 echo "<br>", $variavel;
