@@ -22,12 +22,14 @@ echo "Antes da função: $variavel<br>";
 trocaValor();
 echo "Depois da função: $variavel<br>";
 
+echo "<br>";
+
 function trocaValorDeVerdade() {
     global $variavel;
     $variavel = 3;
     echo "Durante a função: $variavel<br>";
 }
 
-echo "Antes da função: $varialvel<br>";
+echo "Antes da função: $variavel<br>";
 trocaValorDeVerdade();
 echo "Depois da função: $variavel<br>";
