@@ -33,6 +33,11 @@
                                 Função & Escopo
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                                Desafio palindromo
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
