@@ -28,8 +28,8 @@ echo "<br>";
 
 function verificarPalindromo2($palavra) {
     if ($palavra !== strrev($palavra)) {
-        echo "A palavra não é um palindromo, palavra original: $palavra / palavra invertida: " . strrev($palavra) . "<br>"
+        echo "A palavra não é um palindromo, palavra original: $palavra / palavra invertida: " . strrev($palavra) . "<br>";
     } else {
-        echo "A palavra é um palindromo, palavra original: $palavra / palavra invertida: " . strrev($palavra) . "<br>"
+        echo "A palavra é um palindromo, palavra original: $palavra / palavra invertida: " . strrev($palavra) . "<br>";
     }
 }
