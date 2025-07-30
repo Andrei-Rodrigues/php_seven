@@ -41,6 +41,8 @@
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=arg_padrao">
                                 Argumento padrão
+                            <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                Argumentos variáveis
                             </a>
                         </li>
                     </ul>
