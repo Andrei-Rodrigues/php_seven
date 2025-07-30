@@ -38,11 +38,14 @@
                                 Args & retorno
                             </a>
                         </li>
-                        <li>
-                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
-                                Argumento padrão
+                        <li>                            
                             <a href="exercicio.php?dir=funcoes&file=args_variaveis">
                                 Argumentos variáveis
+                            </a>
+                        </li>
+                        <li>                            
+                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                Argumento padrão
                             </a>
                         </li>
                     </ul>
