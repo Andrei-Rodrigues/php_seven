@@ -22,12 +22,7 @@
 
             <div class="modulo vermelho-escuro">
                     <h3>7. Função</h3>
-                    <ul>
-                        <li>
-                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
-                                Args & retorno
-                            </a>
-                        </li>
+                    <ul>                        
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=escopo">
                                 Função & Escopo
@@ -36,6 +31,16 @@
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=palindromo">
                                 Desafio palindromo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                                Args & retorno
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                Argumento padrão
                             </a>
                         </li>
                     </ul>
