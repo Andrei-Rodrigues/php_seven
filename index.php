@@ -40,9 +40,17 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=arg_padrao">
-                                Argumento padrão
+                                Argumento padrão                            
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=funcoes&file=args_variaveis">
-                                Argumentos variáveis
+                                Argumentos variáveis                          
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                                Usando tipos
                             </a>
                         </li>
                     </ul>
