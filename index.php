@@ -38,28 +38,24 @@
                                 Args & retorno
                             </a>
                         </li>
-<<<<<<< HEAD
                         <li>                            
-=======
-                        <li>
-                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
-                                Argumento padrão                            
-                            </a>
-                        </li>
-                        <li>
->>>>>>> feat/tipos_parametros_funcao
                             <a href="exercicio.php?dir=funcoes&file=args_variaveis">
                                 Argumentos variáveis                          
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
-                                Usando tipos
-                            </a>
-                        </li>
-                        <li>                            
                             <a href="exercicio.php?dir=funcoes&file=arg_padrao">
                                 Argumento padrão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                                Usando Tipos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=anonimas">
+                                Função anônima
                             </a>
                         </li>
                     </ul>
