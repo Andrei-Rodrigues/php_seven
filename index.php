@@ -48,9 +48,14 @@
                                 Argumento padrão
                             </a>
                         </li>
-                        <li>                            
+                        <li>
                             <a href="exercicio.php?dir=funcoes&file=usando_tipos">
                                 Usando Tipos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=anonimas">
+                                Função anônima
                             </a>
                         </li>
                     </ul>
