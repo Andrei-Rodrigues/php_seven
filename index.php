@@ -63,6 +63,16 @@
                                 Closure e callable
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                                Recursividade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=desafio_recursao">
+                                Desafio recursão
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
