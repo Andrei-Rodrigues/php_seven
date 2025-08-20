@@ -27,7 +27,12 @@
                             <a href="exercicio.php?dir=classes_objetos&file=classe">
                                 Primeira classe
                             </a>
-                        </li>                        
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio_classe_data">
+                                Desafio classe data
+                            </a>
+                        </li> 
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">
