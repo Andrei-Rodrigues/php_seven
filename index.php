@@ -32,7 +32,12 @@
                             <a href="exercicio.php?dir=classes_objetos&file=desafio_classe_data">
                                 Desafio classe data
                             </a>
-                        </li> 
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
+                                Construtor e destrutor
+                            </a>
+                        </li>
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">
