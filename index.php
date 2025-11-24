@@ -87,6 +87,11 @@
                             <a href="exercicio.php?dir=classes_objetos&file=metodos_magicos">
                                 Métodos mágicos
                             </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=polimorfismo">
+                                Polimorfismo
+                            </a>
                         </li>                       
                     </ul>
                 </div>
